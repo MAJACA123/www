@@ -14,7 +14,7 @@
 ;
 
 [general]
-country=us		; default location
+country=aa1		; default location
 
 
 ; [example]
@@ -58,17 +58,17 @@ country=us		; default location
 ;
 
 [aa1]
-description = New Dial Sounds 1
-ringcadence = 1000,5000
-dial = 420+500
-busy = 420+500/400,0/400
-ring = 420+500/1000,0/5000
-congestion = 420+500/200,0/200
-callwaiting = 420+500/40,0/1960
-dialrecall = 420+500
-record = 420+500/80,0/14920
-info = 420+500/330,1450/330,1850/330,0/1000
-stutter = 420+500
+;description = New Dial Sounds 1
+;ringcadence = 1000,5000
+;dial = 420+500
+;busy = 420+500/400,0/400
+;ring = 420+500/1000,0/5000
+;congestion = 420+500/200,0/200
+;callwaiting = 420+500/40,0/1960
+;dialrecall = 420+500
+;record = 420+500/80,0/14920
+;info = 420+500/330,1450/330,1850/330,0/1000
+;stutter = 420+500
 
 [at]
 description = Austria
